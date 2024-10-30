@@ -1,0 +1,86 @@
+.better-links-submitbox > * {
+	vertical-align: middle !important;
+}
+
+.better-links-error {
+	color: #aa0000 !important;
+}
+
+.better-links-help,
+.better-links-help a {
+	color: #990000;
+	font-weight: 700;
+}
+
+.better-links-nomargin {
+	margin: 0;
+}
+
+.better-links-redirect-addable {
+	margin-bottom: 1.00em;
+}
+
+.better-links-redirect-addable-template {
+	display: none;
+}
+
+.better-links-slug-outer {
+	display: table;
+	width: 100%;
+}
+
+.better-links-slug-inner {
+	display: table-row;
+}
+
+.better-links-slug-domain,
+.better-links-slug-slug {
+	display: table-cell;
+}
+
+.better-links-slug-domain {
+	white-space: nowrap;
+}
+
+.better-links-slug-slug {
+	width: 999999px;
+}
+
+/* Search / insertion interface */
+
+.better-links-process {
+	padding: 0 16px 32px;
+}
+
+.better-links-process-clear {
+	clear: both;
+}
+
+.media-embed .setting .better-links-input,
+.media-embed .setting input[type="text"].better-links-input {
+	display: inline;
+}
+
+.media-embed .setting .better-links-input.better-links-button {
+	width: auto;
+}
+
+.media-embed .setting .better-links-spinner {
+	display: inline-block;
+	float: none;
+	margin: 0;
+	position: relative;
+	top: 4px;
+	width: 20px;
+}
+
+.better-links-actions {
+	text-align: right;
+	width: 150px;
+}
+
+.media-embed .setting.better-links-setting-inline-block {
+	display: inline-block;
+	float: none;
+	width: auto;
+}
